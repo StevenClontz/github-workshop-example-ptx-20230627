@@ -12,13 +12,13 @@
   </docinfo>
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>My Greatest Book</title>
+    <subtitle>The example to get you started</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
-          <personname>You</personname>
+          <personname>Steven Clontz, PhD of Horribleness</personname>
           <department>Your department</department>
           <institution>Your institution</institution>
         </author>
@@ -47,11 +47,11 @@
     </frontmatter>
 
     <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
+      <title>The best chapter ever!</title>
 
       <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
+        <title>Just an okay section</title>
+        <p>Hello world</p>
       </section>
 
     </chapter>
